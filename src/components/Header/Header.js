@@ -1,17 +1,15 @@
-import { render } from "@testing-library/react";
-
-export function Header (){
-    return (
-        <header>
-            <a>Hypicons</a>
-            <ul>
-                <li>
-                    <a>Home</a>
-                </li>
-                <li>
-                    <a>Contacts</a>
-                </li>
-            </ul>
-        </header>
-    )
+export function Header() {
+  return (
+    <header>
+      <a href="/home">Hypicons</a>
+      <ul>
+        <li>
+          <a href="/home">Home</a>
+        </li>
+        <li>
+          <a href="/contacts">Contacts</a>
+        </li>
+      </ul>
+    </header>
+  )
 }
