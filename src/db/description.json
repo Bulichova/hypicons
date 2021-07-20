@@ -1,0 +1,132 @@
+{
+  "about": {},
+  "description": {
+    "mainTitle": "Big Sur ready",
+    "mainList": [
+      {
+        "title": "Health &amp; Fitness",
+        "items": [
+          "Adidas",
+          "Activity",
+          "Covid-19",
+          "Fitbit",
+          "Nike",
+          "Peloton",
+          "Sleep",
+          "Strava",
+          "MyFitnessPal",
+          "Weights"
+        ]
+      },
+      {
+        "title": "Social Media",
+        "items": [
+          "Behance",
+          "Bumble",
+          "Discord",
+          "Dribbble",
+          "Facebook",
+          "Flickr",
+          "Google Hangouts",
+          "Instagram",
+          "Linkedin",
+          "Meetup",
+          "Messenger",
+          "Pinterest",
+          "Quora",
+          "Reddit",
+          "Skype",
+          "Slack",
+          "Snapchat",
+          "Teams",
+          "Telegram",
+          "TikTok",
+          "Tinder",
+          "Tumblr",
+          "Twitch",
+          "Twitter",
+          "Vimeo",
+          "VK",
+          "Whatsapp",
+          "Youtube",
+          "Zoom"
+        ]
+      },
+      {
+        "title": "General",
+        "items": [
+          "Airbnb",
+          "Cash App",
+          "Chrome",
+          "Deliveroo",
+          "Dropbox",
+          "Ebay",
+          "Figma",
+          "Github",
+          "Gmail",
+          "Google Drive",
+          "Google Home",
+          "Gumtree",
+          "Invision",
+          "Lyft",
+          "Monzo",
+          "Notion",
+          "Paypal",
+          "Uber",
+          "VSCO"
+        ]
+      },
+      {
+        "title": "Entertainment",
+        "items": [
+          "Alexa",
+          "Amazon",
+          "Apple (TV)",
+          "Channel 4",
+          "Crunchyroll",
+          "Disney Plus",
+          "Google Photos",
+          "Google Play",
+          "Hulu",
+          "Netflix",
+          "Oculus",
+          "Playstation",
+          "Shazam",
+          "Sky",
+          "Soundcloud",
+          "Spotify"
+        ]
+      },
+      {
+        "title": "Apple Utilities",
+        "items": [
+          "Calculator",
+          "Calendar",
+          "Camera",
+          "Clock",
+          "Contacts",
+          "Facetime",
+          "Find my phone",
+          "Flashlight",
+          "Health",
+          "iMovie",
+          "Keynote",
+          "Mail",
+          "Maps",
+          "Messages",
+          "Music",
+          "Numbers",
+          "Pages",
+          "Phone",
+          "Photos",
+          "Podcasts",
+          "Remote",
+          "Safari",
+          "Shortcuts",
+          "Stopwatch",
+          "Weather"
+        ]
+      }
+    ]
+  }
+}

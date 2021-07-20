@@ -5,14 +5,14 @@ import { HomePage } from './pages/HomePage/HomePage'
 
 function App() {
   return (
-    <>
+    <div className="App">
       <Header />
       <main>
         <h1>Pages</h1>
         <HomePage />
       </main>
       <Footer />
-    </>
+    </div>
   )
 }
 
